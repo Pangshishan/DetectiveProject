@@ -1,1 +1,1 @@
-# DetectiveProject
+# 封装一些代码
